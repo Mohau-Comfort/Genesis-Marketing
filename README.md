@@ -1,5 +1,5 @@
 
-# This was my Marketing site for me and group's project for our Informatics 3 final year project (We got 3rd place for best website for the project)
+# This was my Marketing site for me and my group's project for our Informatics 3 final year project (We got 3rd place for best website for the project)
 
 ## Note: The project was done was using HTML and CSS only (no Javascript)
 
